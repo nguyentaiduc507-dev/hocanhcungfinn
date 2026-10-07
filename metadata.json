@@ -1,0 +1,8 @@
+{
+  "name": "Unit 2: Healthy Living - Master Vocabulary",
+  "description": "Nền tảng học và ôn luyện từ vựng tiếng Anh Unit 2: Healthy Living với Thẻ ghi nhớ 3D, Trắc nghiệm phản xạ, Nối cặp từ, Thử thách gõ chính tả, và Trợ lý AI Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
